@@ -20,3 +20,4 @@ production:
   database: keithnorm_development
   username: keithnorm
   password: pediddle
+  host: mysql.keithnorm.com
